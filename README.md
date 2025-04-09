@@ -10,7 +10,8 @@ Hi, I'm Iqbal, a Full Stack Developer based in Dublin with a background in softw
 # 📊 GitHub Stats:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iqbal86&theme=dark&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Iqbal86&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Iqbal86&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Iqbal86&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iqbal86)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Iqbal86&theme=radical&no-frame=false&no-bg=false&margin-w=4)
