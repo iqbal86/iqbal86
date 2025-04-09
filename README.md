@@ -2,7 +2,7 @@
 Hi, I'm Iqbal, a Full Stack Developer based in Dublin with a background in software design and a passion for building clean, user-focused web applications. I love solving real-world problems with simple, scalable solutions and always enjoy learning something new. When I’m not coding, you’ll probably find me exploring a new city or planning my next travel adventure.
 
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Night Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iqbal86&label=Profile%20views&color=0e75b6&style=flat" alt="iqbal86" /> </p>
 
 ## 🌐 Socials:
